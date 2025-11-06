@@ -1,4 +1,4 @@
 [theme]
-primarycolor="#000000"
-secondaryBackgroundColor="#390202"
-TextColor="#ffffff"
+primarycolor="#ffffffff"
+secondaryBackgroundColor="#ff0000ff"
+TextColor="rgba(0, 0, 0, 1)"
